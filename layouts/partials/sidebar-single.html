@@ -13,7 +13,7 @@
 		<h4>Tags</h4>
 		<div class="tag-box">
 		{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-			<a class="tag-item" href="{{ $baseUrl }}/tags/{{ $name | urlize }}">{{ $name }}</a>
+			<a class="tag-item" href="/tags/{{ $name | urlize }}">{{ $name }}</a>
 		{{ end }}
 		</div>
 	</div>
