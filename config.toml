@@ -1,7 +1,6 @@
 baseurl= "https://www.labx.fr"
 languageCode = "fr-fr"
 title =  "L@Bx hackerspace in Bordeaux"
-
 [Params] 
  DateForm = "02/01/2006"
  description  = "Le LaBx (Acronyme de LabBordeaux) est un Hacklab situé à Bordeaux, regroupant plusieurs personnes comme des artistes, des curieux, des geeks, voir même les 3 en même temps. Le but même de ce regroupement est de pouvoir exercer des bidouilles en tout genre, dans un but de partage et d'échange. Bonne visite "
