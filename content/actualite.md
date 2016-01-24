@@ -8,6 +8,11 @@ title = "_index"
 
 # Actualité du labx
 
+## Giroll
+
+le mardi 26 janvier les membres du collectif Giroll viennent faire leur atelier au L@Bx. 
+
+
 ## déméngement beta
 
 L@bx suit Pola qui réalise un déménagement provisoire au collége fiéffé 
