@@ -7,13 +7,15 @@ title = "nous trouver"
 +++
 
 
-# collége fiéffé 
+# collègue fiéffé 
 
-Nous nous réunissons tous les mardi et vendredi soirs!
+Nous nous réunissons tous les mardis et vendredis soirs!
 
-Dans  l'ancien collégue rue fiéffé, il se trouve à 400m de la gare st jean
+Dans  l'ancien collègue rue fiéffé, il se trouve à 400m de la gare st jean
 
-Le lien Open Street Map pour nous trouver: [http://www.openstreetmap.org/node/2485072272#map=19/44.82383/-0.56149][1]
+Le lien Open Street Map pour nous trouver: 
+
+[http://www.openstreetmap.org/node/2485072272#map=19/44.82383/-0.56149][1]
 
 
 
