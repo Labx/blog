@@ -8,6 +8,9 @@ title = "_index"
 
 # Actualité du labx
 
+## AG extraordinaire
+
+## nouvelle adresse
 L@bx suit Pola qui réalise un déménagement provisoire au collègue fiéffé 
 
 62, rue Fieffé 
