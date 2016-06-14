@@ -50,7 +50,7 @@
 				{{ end }}
 				{{ range where .Site.Pages "Section" "info" }}
 				
-					<li class="dropdown"><a href={{.Permalink}}  >{{.Title}}</a></li>
+					<li class="dropdown"><a href={{.RelPermalink}}  >{{.Title}} </a></li>
 				{{ end }}
 				
 				
