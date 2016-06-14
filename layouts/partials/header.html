@@ -31,7 +31,6 @@
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li {{ if eq $isHomePage true }}class="active"{{ end }}><a href="/">Home</a></li>
 			{{ if isset .Site.Params "mainMenu" }}
 				{{ $url := .Permalink }}
 				{{ range $item := .Site.Params.mainMenu }}
@@ -49,13 +48,10 @@
 						</ul>
 					</li>
 				{{ end }}
-				<li class="dropdown">
-						<a href="/info/nous_trouver" >Nous trouver</a> 
+				{{ range where .Site.Pages "Section" "info" }}
 				
-				
-				<li class="dropdown">
-						<a href="/info/nous_contacter" >Nous contacter</a> 
-				</ul>
+					<li class="dropdown"><a href={{.Permalink}}  >{{.Title}}</a></li>
+				{{ end }}
 				
 				
 			</div><!--/.nav-collapse -->
