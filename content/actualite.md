@@ -8,15 +8,23 @@ title = "_index"
 
 # Actualité du labx
 
+## Animation atelier robotique pour les vibration urbaine
+Cet été nous avons animé deux ateliers robotique auprès des jeunes de Pessac animation pour la préparation des vibrations urbaines.
+Nous avons deux autres ateliers :
+ 
+* le samedi 15 octobre de 10h à 13h
+* le samedi 22 octobre de 10h à 13h
 
-## Animation atelier robotique
+Les programmes sont réalisés en arduiblock.
 
-Les samedi 18 et 25 juin, nous annimons deux ateliers robotique pour Pessac annimation.
-Le but de ces ateliers et de preparer des jeunes à faire des petites demos robotique pour les vribrations urbaine de Pessac. 
+Des annimateurs volontaires sont toujours les bienvenus.
 
-## Porte close mardi 21 juin
 
-Le mardi 21 juin, Pola fête la musique dans la cours du 62 rue fiéffé, exceptionnellement le L@bx n'ouvrira pas ses portes ce mardi.
+## Animation atelier Arduino à la médiathéque de Pessac
+
+En Novembre nous annimerons deux ateliers sur l'Arduino et la robotique.
+date à venir
+Des annimateurs volontaires sont toujours les bienvenus.
 
 ## Nouvelle adresse
 L@bx suit Pola qui réalise un déménagement provisoire au collègue fiéffé 
