@@ -12,6 +12,7 @@ Pour nous contacter vous pouvez :
   
   
 * <a title="mailing" href="https://lists.labx.fr/cgi-bin/mailman/listinfo/mailman"  target="_blank">vous inscrire sur la mailinglist</a>
+* <a title="mailing" href="https://lists.labx.fr/cgi-bin/mailman/listinfo"  target="_blank">vous inscrire sur les autres listes</a>
 * <a title="IRC" href="https://kiwiirc.com/client/irc.freenode.net/?nick=We_Make_SSL|?&theme=cli#labx" target="_blank">venir discuter sur IRC </a>
 
 Vous voulez venir nous voir, [suivez le guide][1]
