@@ -20,6 +20,14 @@ Les programmes sont réalisés en arduiblock.
 Des annimateurs volontaires sont toujours les bienvenus.
 
 
+## A la déc@uverte du libre 
+
+[UNBEE][1]  organise la Décàuverte du libre le samedi 29 octobre de 13h à 16h30.<br>
+Nous animerons des ateliers sur Arduino.<br>
+Dans la salle des fête de CAPEYRON <br>
+Place Jean-Jaurès 33700 Mérignac
+
+
 ## Animation atelier Arduino à la médiathéque de Pessac
 
 En Novembre nous annimerons deux ateliers sur l'Arduino et la robotique.
@@ -33,4 +41,4 @@ L@bx suit Pola qui réalise un déménagement provisoire au collègue fiéffé
 
 à deux pas de la Gare Saint Jean
 
-
+[1]:http://www.unbee.fr
