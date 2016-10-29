@@ -8,24 +8,35 @@ title = "_index"
 
 # Actualité du labx
 
-## Animation atelier robotique pour les vibration urbaine
-Cet été nous avons animé deux ateliers robotique auprès des jeunes de Pessac animation pour la préparation des vibrations urbaines.
-Nous avons deux autres ateliers :
- 
-* le samedi 15 octobre de 10h à 13h
-* le samedi 22 octobre de 10h à 13h
-
-Les programmes sont réalisés en arduiblock.
-
-Des annimateurs volontaires sont toujours les bienvenus.
+## Les ateliers du lab
+une fois pas mois le labx annimera "les ateliers du lab", ateliers techniques sur un logiciel libre ou une présentation d'outils utiles au hack.
+Ces ateliers peuvent être annimé par un membre du labx ou une autre personne qui souhaite promouvoire son outil libre préféré.
 
 
-## A la déc@uverte du libre 
+Le Vendredi 18 novembre à 21h le premier atelier du lab portera sur l'utilisation d'un oscilloscope numérique.
 
-[UNBEE][1]  organise la Décàuverte du libre le samedi 29 octobre de 13h à 16h30.<br>
-Nous animerons des ateliers sur Arduino.<br>
-Dans la salle des fête de CAPEYRON <br>
-Place Jean-Jaurès 33700 Mérignac
+* Rappel de quelque base sur la physique tension, courant, loi d’ohms , fréquence
+
+* utilisation du scope pour mesurer un signal périodique
+
+* utilisation du scope pour mesurer un signal non périodique
+
+* Rappel sur les bus de communication UART, I2C, SPI
+
+* utilisation du scope pour écouter deux arduino discuter
+
+## Les atelier du labx à venir 
+Voici les ateliers programmés, pour les mois à venir:
+
+* Hugo : Créer une site web statique simplement.
+  * Authentification par clé ssh
+  * Server Git et création de de script hook post-reiceive pour la mise à jour du site
+  * Présentation du site du labx
+* OpenScad : Coder et versionner vos piéces à imprimer
+  * Étude du langage OpenScad
+  * Paramétrer sont éditeur texte pour coder sous OpenScad
+* Kicad : Créer de belles cartes electroniques 
+
 
 
 ## Animation atelier Arduino à la médiathéque de Pessac
