@@ -18,8 +18,14 @@ Giroll pour Gironde Logiciels libres
 # [Abul][4]
 Association Bordelaise des Utilisateurs de Logiciels libres
 
+# [unbee][5]
+Association Merignacaise des Utilisateurs de logiciels libre
+
+* initiation aux distributions Ubuntu
+* recyclage d'ordinateurs avec des outils libre
 
 [1]:http://pierrecaulet.free.fr/
 [2]:https://www.aquilenet.fr/
 [3]:http://www.giroll.org/
 [4]:http://www.abul.fr
+[5]:http://unbee.fr
