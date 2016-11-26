@@ -9,21 +9,17 @@ title = "_index"
 # Actualité du labx
 
 ## Les ateliers du lab
-une fois pas mois le labx annimera "les ateliers du lab", ateliers techniques sur un logiciel libre ou une présentation d'outils utiles au hack.
+le labx annime "les ateliers du lab", ateliers techniques sur un logiciel libre ou une présentation d'outils utiles au hack.
 Ces ateliers peuvent être annimé par un membre du labx ou une autre personne qui souhaite promouvoire son outil libre préféré.
 
-### Vendredi 18 novembre 21h : l'oscilloscope
-Le premier atelier du lab portera sur l'utilisation d'un oscilloscope numérique.
+### Mercredi
+PGP lance ses ateliers 
 
-* Rappel de quelque base sur la physique tension, courant, loi d’ohms , fréquence
+ * Sur la protuction numérique
+ * Sur la protection de sa vie privée
+ * ...
 
-* utilisation du scope pour mesurer un signal périodique
-
-* utilisation du scope pour mesurer un signal non périodique
-
-* Rappel sur les bus de communication UART, I2C, SPI
-
-* utilisation du scope pour écouter deux arduino discuter
+[plus d'info...]({{<ref "atelier_pgp.md" >}})
 
 ### à venir :
 Voici les ateliers programmés, pour les mois à venir:
