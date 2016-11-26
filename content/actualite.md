@@ -12,14 +12,14 @@ title = "_index"
 le labx annime "les ateliers du lab", ateliers techniques sur un logiciel libre ou une présentation d'outils utiles au hack.
 Ces ateliers peuvent être annimé par un membre du labx ou une autre personne qui souhaite promouvoire son outil libre préféré.
 
-### Mercredi
+### Mercredi 7 décembre
 PGP lance ses ateliers 
 
  * Sur la protuction numérique
  * Sur la protection de sa vie privée
  * ...
 
-[plus d'info...]({{<ref "atelier_pgp.md" >}})
+[plus d'info...](./post/atelier_pgp)
 
 ### à venir :
 Voici les ateliers programmés, pour les mois à venir:
