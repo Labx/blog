@@ -38,10 +38,29 @@ Voici les ateliers programmés, pour les mois à venir:
 
 
 ## Animation atelier Arduino à la médiathéque de Pessac
-
-En Novembre nous annimerons deux ateliers sur l'Arduino et la robotique.
-date à venir
+En 2017 nous annimerons de nouveaux ateliers à la médiathéque de Pessac.
+Ces ateliers porterons sur l'arduino et la robotique.
 Des annimateurs volontaires sont toujours les bienvenus.
+
+### Le samedi 21 janvier 2017
+Atelier arduino 
+
+### Le samedi 4 février 2017
+Atelier arduino 
+
+### Le samedi 11 mars 2017
+Atelier Metabot
+
+### Le samedi 25 mars 2017
+Atelier Metabot 
+
+### Le samedi 6 mai 2017
+Atelier arduino 
+
+### Le samedi 13 mai 2017
+Atelier arduino 
+
+
 
 ## Nouvelle adresse
 L@bx suit Pola qui réalise un déménagement provisoire au collègue fiéffé 
