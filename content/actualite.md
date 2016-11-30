@@ -15,7 +15,7 @@ Ces ateliers peuvent être annimé par un membre du labx ou une autre personne q
 ### Mercredi 7 décembre
 PGP lance ses ateliers 
 
- * Sur la protuction numérique
+ * Sur la production numérique
  * Sur la protection de sa vie privée
  * ...
 
