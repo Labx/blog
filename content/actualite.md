@@ -8,6 +8,12 @@ title = "_index"
 
 # Actualité du labx
 
+## Le café vie privé 
+Le 28 janvier 2017 venez participer à la 10° journée mondiale du chiffrement. à POLA
+
+
+[plus d'info...](./post/cafe_vie_privée)
+
 ## Les ateliers du lab
 le labx annime "les ateliers du lab", ateliers techniques sur un logiciel libre ou une présentation d'outils utiles au hack.
 Ces ateliers peuvent être annimé par un membre du labx ou une autre personne qui souhaite promouvoire son outil libre préféré.
